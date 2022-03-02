@@ -2,7 +2,7 @@
 
 👀 I’m interested in software development, AI/ML, crypto, cloud and all other cutting edge technologies
 
-🌱 I’m currently learning HTML, CSS, Javascript and AWS
+🌱 I’m currently learning Solidity, React and AWS
 
 💞️ I’m looking to collaborate on exciting new projects where you don't mind having a newbie on the team
 
